@@ -1,0 +1,27 @@
+{
+  "id": "physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test",
+  "title": "Chapter 3 Test: Humanoid Robot Modeler",
+  "description": "Learning Assessment",
+  "source": "@site/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test.md",
+  "sourceDirName": "physical-ai-humanoid-robotics",
+  "slug": "/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test",
+  "permalink": "/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2 Test: Python-based AI Agent",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication-test"
+  },
+  "next": {
+    "title": "Quick Start Guide: Physical AI & Humanoid Robotics",
+    "permalink": "/docs/physical-ai-humanoid-robotics/quickstart"
+  }
+}

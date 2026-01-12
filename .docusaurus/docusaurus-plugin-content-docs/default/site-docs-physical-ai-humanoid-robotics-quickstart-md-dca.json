@@ -1,0 +1,20 @@
+{
+  "id": "physical-ai-humanoid-robotics/quickstart",
+  "title": "Quick Start Guide: Physical AI & Humanoid Robotics",
+  "description": "This guide will help you get started with the Physical AI & Humanoid Robotics educational content.",
+  "source": "@site/docs/physical-ai-humanoid-robotics/quickstart.md",
+  "sourceDirName": "physical-ai-humanoid-robotics",
+  "slug": "/physical-ai-humanoid-robotics/quickstart",
+  "permalink": "/docs/physical-ai-humanoid-robotics/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/physical-ai-humanoid-robotics/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3 Test: Humanoid Robot Modeler",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test"
+  }
+}

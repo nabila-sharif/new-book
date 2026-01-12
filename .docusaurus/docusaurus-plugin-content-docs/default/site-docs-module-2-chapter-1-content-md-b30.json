@@ -1,0 +1,24 @@
+{
+  "id": "module-2/chapter-1-content",
+  "title": "Chapter 1: Physics Simulation with Gazebo",
+  "description": "Introduction to Digital Twins in Robotics",
+  "source": "@site/docs/module-2/chapter-1-content.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-1-content",
+  "permalink": "/docs/module-2/chapter-1-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-2/chapter-1-content.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "module2Sidebar",
+  "previous": {
+    "title": "Module 2: Digital Twin (Gazebo & Unity)",
+    "permalink": "/docs/module-2"
+  },
+  "next": {
+    "title": "Chapter 2: High-Fidelity Environments with Unity",
+    "permalink": "/docs/module-2/chapter-2-content"
+  }
+}

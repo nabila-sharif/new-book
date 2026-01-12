@@ -1,0 +1,20 @@
+{
+  "id": "module-2/chapter-3-content",
+  "title": "Chapter 3: Sensor Simulation & Fidelity",
+  "description": "Introduction to Sensor Simulation in Digital Twins",
+  "source": "@site/docs/module-2/chapter-3-content.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-3-content",
+  "permalink": "/docs/module-2/chapter-3-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-2/chapter-3-content.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "module2Sidebar",
+  "previous": {
+    "title": "Chapter 2: High-Fidelity Environments with Unity",
+    "permalink": "/docs/module-2/chapter-2-content"
+  }
+}

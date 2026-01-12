@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend_book=self.webpackChunkfrontend_book||[]).push([[8121],{8070(e){e.exports=JSON.parse('{"tags":[{"label":"welcome","permalink":"/blog/tags/welcome","count":1}]}')}}]);

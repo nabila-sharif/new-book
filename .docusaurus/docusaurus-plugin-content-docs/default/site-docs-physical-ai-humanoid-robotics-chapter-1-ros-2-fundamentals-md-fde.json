@@ -1,0 +1,27 @@
+{
+  "id": "physical-ai-humanoid-robotics/chapter1-ros2-fundamentals",
+  "title": "Chapter 1: ROS 2 Fundamentals - The Robotic Nervous System",
+  "description": "This chapter covers the fundamentals of ROS 2 (Robot Operating System 2) and its role in physical AI systems. ROS 2 serves as the nervous system of a robot, enabling different components to communicate and coordinate effectively.",
+  "source": "@site/docs/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals.md",
+  "sourceDirName": "physical-ai-humanoid-robotics",
+  "slug": "/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals",
+  "permalink": "/docs/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/docs/physical-ai-humanoid-robotics/module1-intro"
+  },
+  "next": {
+    "title": "Chapter 2: Python-based AI Agent - From Decision to Action",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication"
+  }
+}

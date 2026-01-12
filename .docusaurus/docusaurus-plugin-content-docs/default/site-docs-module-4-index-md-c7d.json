@@ -1,0 +1,24 @@
+{
+  "id": "module-4/index",
+  "title": "Module 4: Vision-Language-Action (VLA)",
+  "description": "Module 4: Vision-Language-Action (VLA)",
+  "source": "@site/docs/module-4/index.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/",
+  "permalink": "/docs/module-4/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-4/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Module 4: Vision-Language-Action (VLA)"
+  },
+  "sidebar": "module4Sidebar",
+  "next": {
+    "title": "Chapter 1: Voice-to-Action Interfaces",
+    "permalink": "/docs/module-4/chapter-1-content"
+  }
+}

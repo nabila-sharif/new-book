@@ -1,0 +1,26 @@
+{
+  "id": "module-2/index",
+  "title": "Module 2: Digital Twin (Gazebo & Unity)",
+  "description": "Welcome to Module 2 of the Physical AI & Humanoid Robotics book.",
+  "source": "@site/docs/module-2/index.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2",
+  "permalink": "/docs/module-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-2/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "index",
+    "title": "Module 2: Digital Twin (Gazebo & Unity)",
+    "slug": "/module-2",
+    "sidebar_position": 1
+  },
+  "sidebar": "module2Sidebar",
+  "next": {
+    "title": "Chapter 1: Physics Simulation with Gazebo",
+    "permalink": "/docs/module-2/chapter-1-content"
+  }
+}

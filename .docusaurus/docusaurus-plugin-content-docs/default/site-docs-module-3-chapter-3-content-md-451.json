@@ -1,0 +1,24 @@
+{
+  "id": "module-3/chapter-3-content",
+  "title": "Chapter 3: Navigation & Path Planning (Nav2)",
+  "description": "Chapter 3: Navigation & Path Planning (Nav2)",
+  "source": "@site/docs/module-3/chapter-3-content.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-3-content",
+  "permalink": "/docs/module-3/chapter-3-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-3/chapter-3-content.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 3: Navigation & Path Planning (Nav2)"
+  },
+  "sidebar": "module3Sidebar",
+  "previous": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/docs/module-3"
+  }
+}

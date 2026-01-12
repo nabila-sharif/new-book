@@ -1,0 +1,28 @@
+{
+  "id": "module-3/chapter-1-content",
+  "title": "Chapter 1: Photorealistic Simulation & Synthetic Data (Isaac Sim)",
+  "description": "Chapter 1: Photorealistic Simulation & Synthetic Data (Isaac Sim)",
+  "source": "@site/docs/module-3/chapter-1-content.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-1-content",
+  "permalink": "/docs/module-3/chapter-1-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-3/chapter-1-content.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 1: Photorealistic Simulation & Synthetic Data (Isaac Sim)"
+  },
+  "sidebar": "module3Sidebar",
+  "previous": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/docs/module-3"
+  },
+  "next": {
+    "title": "Chapter 2: Perception & Localization (Isaac ROS)",
+    "permalink": "/docs/module-3/chapter-2-content"
+  }
+}

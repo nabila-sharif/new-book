@@ -1,0 +1,27 @@
+{
+  "id": "physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure",
+  "title": "Chapter 3: Humanoid Robot Modeler - Defining Structure with URDF",
+  "description": "This chapter covers defining humanoid robot structure using URDF (Unified Robot Description Format), understanding links, joints, and kinematic chains. URDF is the standard way to describe robot models in ROS and is essential for simulation, visualization, and control.",
+  "source": "@site/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure.md",
+  "sourceDirName": "physical-ai-humanoid-robotics",
+  "slug": "/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure",
+  "permalink": "/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Python-based AI Agent - From Decision to Action",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication"
+  },
+  "next": {
+    "title": "Chapter 1 Test: ROS 2 Fundamentals",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals-test"
+  }
+}

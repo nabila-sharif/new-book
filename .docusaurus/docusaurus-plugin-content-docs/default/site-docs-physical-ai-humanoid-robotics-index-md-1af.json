@@ -1,0 +1,23 @@
+{
+  "id": "physical-ai-humanoid-robotics/index",
+  "title": "Physical AI & Humanoid Robotics",
+  "description": "Welcome to the Physical AI & Humanoid Robotics educational module. This comprehensive course covers the fundamentals of creating intelligent robotic systems that bridge the gap between artificial intelligence and physical interaction.",
+  "source": "@site/docs/physical-ai-humanoid-robotics/index.md",
+  "sourceDirName": "physical-ai-humanoid-robotics",
+  "slug": "/physical-ai-humanoid-robotics/",
+  "permalink": "/docs/physical-ai-humanoid-robotics/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/physical-ai-humanoid-robotics/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Physical AI & Humanoid Robotics",
+    "permalink": "/docs/physical-ai-humanoid-robotics/"
+  }
+}

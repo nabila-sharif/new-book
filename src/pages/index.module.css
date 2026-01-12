@@ -1,0 +1,170 @@
+/* =========================
+   HERO SECTION
+========================= */
+
+.heroBanner {
+  padding: 6rem 1rem 4rem;
+  text-align: center;
+  background: linear-gradient(135deg, #f8fff8 0%, #e8f5e8 100%);
+}
+
+.heroBanner h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #2e7d32;
+  margin-bottom: 1rem;
+}
+
+.heroBanner p {
+  font-size: 1.2rem;
+  color: #555;
+  max-width: 680px;
+  margin: 0 auto 2rem;
+}
+
+/* =========================
+   BUTTONS
+========================= */
+
+.button--primary,
+.button--secondary {
+  background: #4caf50 !important;
+  border-color: #4caf50 !important;
+  color: #fff !important;
+  border-radius: 8px !important;
+  padding: 0.8rem 1.8rem !important;
+  transition: all 0.3s ease;
+}
+
+.button--primary:hover,
+.button--secondary:hover {
+  background: #388e3c !important;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(76, 175, 80, 0.3);
+}
+
+/* =========================
+   MODULES SECTION
+========================= */
+
+.modulesSection {
+  padding: 4rem 1rem;
+  background: #ffffff;
+}
+
+.modulesSection h2 {
+  text-align: center;
+  font-size: 2.4rem;
+  color: #2e7d32;
+  margin-bottom: 3rem;
+}
+
+/* =========================
+   GRID LAYOUT (KEY FIX)
+========================= */
+
+.modulesSection .row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+/* =========================
+   MODULE CARDS
+========================= */
+
+.card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.07);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.card::before {
+  content: "";
+  height: 4px;
+  width: 100%;
+  background: linear-gradient(90deg, #4caf50, #81c784);
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.12);
+}
+
+.card__body {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.card__body h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #1b5e20;
+  margin-bottom: 0.75rem;
+}
+
+.card__body p {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.6;
+  flex-grow: 1;
+}
+
+.card__body .button {
+  margin-top: auto;
+  align-self: flex-start;
+}
+
+/* =========================
+   MODULE 4 POSITION FIX
+========================= */
+
+/* Give Module 4 this class */
+.module-featured {
+  grid-column: 2 / 3; /* directly under Module 2 */
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 1100px) {
+  .modulesSection .row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .module-featured {
+    grid-column: 1 / -1;
+    max-width: 420px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .heroBanner h1 {
+    font-size: 2.1rem;
+  }
+
+  .heroBanner p {
+    font-size: 1.05rem;
+  }
+
+  .modulesSection {
+    padding: 3rem 1rem;
+  }
+
+  .modulesSection .row {
+    grid-template-columns: 1fr;
+  }
+
+  .module-featured {
+    grid-column: auto;
+  }
+}

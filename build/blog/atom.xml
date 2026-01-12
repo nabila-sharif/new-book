@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ai-book-ashen-chi.vercel.app/blog</id>
+    <title>Physical AI &amp; Humanoid Robotics Blog</title>
+    <updated>2025-01-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ai-book-ashen-chi.vercel.app/blog"/>
+    <subtitle>Physical AI &amp; Humanoid Robotics Blog</subtitle>
+    <icon>https://ai-book-ashen-chi.vercel.app/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Our Blog]]></title>
+        <id>https://ai-book-ashen-chi.vercel.app/blog/welcome</id>
+        <link href="https://ai-book-ashen-chi.vercel.app/blog/welcome"/>
+        <updated>2025-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Our Blog]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Our Blog</p>
+<p>This is the beginning of our blog for Physical AI &amp; Humanoid Robotics content.</p>]]></content>
+        <author>
+            <name>Blog Author</name>
+            <uri>https://github.com/author</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>

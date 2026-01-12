@@ -1,0 +1,28 @@
+{
+  "id": "module-2/chapter-1-physical-ai-fundamentals",
+  "title": "Chapter 1 - Physical AI Fundamentals",
+  "description": "Introduction to Physical AI",
+  "source": "@site/docs/module-2/chapter-1-physical-ai-fundamentals.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-1-physical-ai-fundamentals",
+  "permalink": "/docs/module-2/chapter-1-physical-ai-fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2/chapter-1-physical-ai-fundamentals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Chapter 1 - Physical AI Fundamentals",
+    "sidebar_position": 1
+  },
+  "sidebar": "module2Sidebar",
+  "previous": {
+    "title": "Module 2: Physical AI & Humanoid Robotics",
+    "permalink": "/docs/module-2/"
+  },
+  "next": {
+    "title": "Module 2: Physical AI & Humanoid Robotics",
+    "permalink": "/docs/module-2/"
+  }
+}

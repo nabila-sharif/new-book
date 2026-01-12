@@ -1,0 +1,38 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-01-01-welcome.md",
+  "source": "@site/blog/2025-01-01-welcome.md",
+  "title": "Welcome to Our Blog",
+  "description": "Welcome to Our Blog",
+  "date": "2025-01-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "welcome",
+      "permalink": "/blog/tags/welcome"
+    }
+  ],
+  "readingTime": 0.09,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Blog Author",
+      "title": "Guest Author",
+      "url": "https://github.com/author",
+      "imageURL": "https://github.com/author.png",
+      "key": "author",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome to Our Blog",
+    "authors": [
+      "author"
+    ],
+    "tags": [
+      "welcome"
+    ]
+  },
+  "unlisted": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-2/chapter-3-sensing-actuation-intelligence",
+  "title": "Chapter 3 - Sensing, Actuation & Intelligence",
+  "description": "Chapter 3: Sensing, Actuation & Intelligence",
+  "source": "@site/docs/module-2/chapter-3-sensing-actuation-intelligence.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-3-sensing-actuation-intelligence",
+  "permalink": "/docs/module-2/chapter-3-sensing-actuation-intelligence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2/chapter-3-sensing-actuation-intelligence.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Chapter 3 - Sensing, Actuation & Intelligence",
+    "sidebar_position": 3
+  },
+  "sidebar": "module2Sidebar",
+  "previous": {
+    "title": "Chapter 2: Humanoid Architecture & Control",
+    "permalink": "/docs/module-2/chapter-2-content"
+  },
+  "next": {
+    "title": "Chapter 3: Sensing, Actuation & Embodied Intelligence",
+    "permalink": "/docs/module-2/chapter-3-content"
+  }
+}

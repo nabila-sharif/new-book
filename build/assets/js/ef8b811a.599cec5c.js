@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend_book=self.webpackChunkfrontend_book||[]).push([[8947],{6600(t){t.exports=JSON.parse('{"authors":[{"name":"Blog Author","title":"Guest Author","url":"https://github.com/author","imageURL":"https://github.com/author.png","key":"author","page":null,"count":1}]}')}}]);

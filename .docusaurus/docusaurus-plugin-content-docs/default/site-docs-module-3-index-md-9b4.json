@@ -1,0 +1,26 @@
+{
+  "id": "module-3/index",
+  "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "Welcome to Module 3 of the Physical AI & Humanoid Robotics book.",
+  "source": "@site/docs/module-3/index.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3",
+  "permalink": "/docs/module-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-3/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "index",
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "slug": "/module-3",
+    "sidebar_position": 3
+  },
+  "sidebar": "module3Sidebar",
+  "next": {
+    "title": "Chapter 1: Photorealistic Simulation & Synthetic Data (Isaac Sim)",
+    "permalink": "/docs/module-3/chapter-1-content"
+  }
+}

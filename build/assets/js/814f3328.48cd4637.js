@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend_book=self.webpackChunkfrontend_book||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Our Blog","permalink":"/blog/welcome","unlisted":false,"date":"2025-01-01T00:00:00.000Z"}]}')}}]);

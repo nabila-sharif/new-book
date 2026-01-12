@@ -1,0 +1,17 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to the Physical AI & Humanoid Robotics documentation. This tutorial will guide you through the fundamentals of ROS2, Python communication, URDF humanoid structures, and more.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/docs/intro",
+  "permalink": "/docs/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/docs/intro"
+  }
+}

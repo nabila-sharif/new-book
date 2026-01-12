@@ -1,0 +1,28 @@
+{
+  "id": "module-3/chapter-2-content",
+  "title": "Chapter 2: Perception & Localization (Isaac ROS)",
+  "description": "Chapter 2: Perception & Localization (Isaac ROS)",
+  "source": "@site/docs/module-3/chapter-2-content.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-2-content",
+  "permalink": "/docs/module-3/chapter-2-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-3/chapter-2-content.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 2: Perception & Localization (Isaac ROS)"
+  },
+  "sidebar": "module3Sidebar",
+  "previous": {
+    "title": "Chapter 1: Photorealistic Simulation & Synthetic Data (Isaac Sim)",
+    "permalink": "/docs/module-3/chapter-1-content"
+  },
+  "next": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/docs/module-3"
+  }
+}

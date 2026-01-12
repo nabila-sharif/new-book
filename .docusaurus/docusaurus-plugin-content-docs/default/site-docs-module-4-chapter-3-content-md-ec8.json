@@ -1,0 +1,28 @@
+{
+  "id": "module-4/chapter-3-content",
+  "title": "Chapter 3: Capstone Project - Autonomous Humanoid",
+  "description": "Chapter 3: Capstone Project - Autonomous Humanoid",
+  "source": "@site/docs/module-4/chapter-3-content.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/chapter-3-content",
+  "permalink": "/docs/module-4/chapter-3-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-4/chapter-3-content.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 3: Capstone Project - Autonomous Humanoid"
+  },
+  "sidebar": "module4Sidebar",
+  "previous": {
+    "title": "Chapter 2: Cognitive Planning with LLMs",
+    "permalink": "/docs/module-4/chapter-2-content"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/module-4/"
+  }
+}

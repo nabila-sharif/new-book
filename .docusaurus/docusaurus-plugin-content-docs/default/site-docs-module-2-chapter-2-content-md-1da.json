@@ -1,0 +1,24 @@
+{
+  "id": "module-2/chapter-2-content",
+  "title": "Chapter 2: High-Fidelity Environments with Unity",
+  "description": "Introduction to Unity for Robotic Simulation",
+  "source": "@site/docs/module-2/chapter-2-content.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-2-content",
+  "permalink": "/docs/module-2/chapter-2-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-2/chapter-2-content.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "module2Sidebar",
+  "previous": {
+    "title": "Chapter 1: Physics Simulation with Gazebo",
+    "permalink": "/docs/module-2/chapter-1-content"
+  },
+  "next": {
+    "title": "Chapter 3: Sensor Simulation & Fidelity",
+    "permalink": "/docs/module-2/chapter-3-content"
+  }
+}

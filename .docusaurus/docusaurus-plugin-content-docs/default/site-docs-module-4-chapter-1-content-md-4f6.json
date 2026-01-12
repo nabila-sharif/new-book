@@ -1,0 +1,28 @@
+{
+  "id": "module-4/chapter-1-content",
+  "title": "Chapter 1: Voice-to-Action Interfaces",
+  "description": "Chapter 1: Voice-to-Action Interfaces",
+  "source": "@site/docs/module-4/chapter-1-content.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/chapter-1-content",
+  "permalink": "/docs/module-4/chapter-1-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-4/chapter-1-content.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Chapter 1: Voice-to-Action Interfaces"
+  },
+  "sidebar": "module4Sidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/module-4/"
+  },
+  "next": {
+    "title": "Chapter 2: Cognitive Planning with LLMs",
+    "permalink": "/docs/module-4/chapter-2-content"
+  }
+}

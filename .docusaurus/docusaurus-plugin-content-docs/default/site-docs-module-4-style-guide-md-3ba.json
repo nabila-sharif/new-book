@@ -1,0 +1,20 @@
+{
+  "id": "module-4/style-guide",
+  "title": "Vision-Language-Action (VLA) Module Documentation Style Guide",
+  "description": "Purpose",
+  "source": "@site/docs/module-4/style-guide.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/style-guide",
+  "permalink": "/docs/module-4/style-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/module-4/style-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "module4Sidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/module-4/"
+  }
+}

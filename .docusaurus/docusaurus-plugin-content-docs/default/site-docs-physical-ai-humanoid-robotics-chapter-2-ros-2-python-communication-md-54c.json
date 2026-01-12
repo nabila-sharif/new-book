@@ -1,0 +1,27 @@
+{
+  "id": "physical-ai-humanoid-robotics/chapter2-ros2-python-communication",
+  "title": "Chapter 2: Python-based AI Agent - From Decision to Action",
+  "description": "This chapter covers using ROS 2 communication with Python using rclpy to create AI agents that can translate decisions into robot actions. We'll explore how to implement publishers, subscribers, and services to create effective AI agents that can interact with the physical world.",
+  "source": "@site/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication.md",
+  "sourceDirName": "physical-ai-humanoid-robotics",
+  "slug": "/physical-ai-humanoid-robotics/chapter2-ros2-python-communication",
+  "permalink": "/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: ROS 2 Fundamentals - The Robotic Nervous System",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals"
+  },
+  "next": {
+    "title": "Chapter 3: Humanoid Robot Modeler - Defining Structure with URDF",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure"
+  }
+}

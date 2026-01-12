@@ -1,0 +1,27 @@
+{
+  "id": "physical-ai-humanoid-robotics/chapter2-ros2-python-communication-test",
+  "title": "Chapter 2 Test: Python-based AI Agent",
+  "description": "Learning Assessment",
+  "source": "@site/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication-test.md",
+  "sourceDirName": "physical-ai-humanoid-robotics",
+  "slug": "/physical-ai-humanoid-robotics/chapter2-ros2-python-communication-test",
+  "permalink": "/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication-test",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication-test.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1 Test: ROS 2 Fundamentals",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals-test"
+  },
+  "next": {
+    "title": "Chapter 3 Test: Humanoid Robot Modeler",
+    "permalink": "/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test"
+  }
+}

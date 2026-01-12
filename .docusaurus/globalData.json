@@ -1,0 +1,164 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/docs/"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/docs/intro"
+            },
+            {
+              "id": "module-2/chapter-1-content",
+              "path": "/docs/module-2/chapter-1-content",
+              "sidebar": "module2Sidebar"
+            },
+            {
+              "id": "module-2/chapter-2-content",
+              "path": "/docs/module-2/chapter-2-content",
+              "sidebar": "module2Sidebar"
+            },
+            {
+              "id": "module-2/chapter-3-content",
+              "path": "/docs/module-2/chapter-3-content",
+              "sidebar": "module2Sidebar"
+            },
+            {
+              "id": "module-2/index",
+              "path": "/docs/module-2",
+              "sidebar": "module2Sidebar"
+            },
+            {
+              "id": "module-3/chapter-1-content",
+              "path": "/docs/module-3/chapter-1-content",
+              "sidebar": "module3Sidebar"
+            },
+            {
+              "id": "module-3/chapter-2-content",
+              "path": "/docs/module-3/chapter-2-content",
+              "sidebar": "module3Sidebar"
+            },
+            {
+              "id": "module-3/chapter-3-content",
+              "path": "/docs/module-3/chapter-3-content",
+              "sidebar": "module3Sidebar"
+            },
+            {
+              "id": "module-3/index",
+              "path": "/docs/module-3",
+              "sidebar": "module3Sidebar"
+            },
+            {
+              "id": "module-4/chapter-1-content",
+              "path": "/docs/module-4/chapter-1-content",
+              "sidebar": "module4Sidebar"
+            },
+            {
+              "id": "module-4/chapter-2-content",
+              "path": "/docs/module-4/chapter-2-content",
+              "sidebar": "module4Sidebar"
+            },
+            {
+              "id": "module-4/chapter-3-content",
+              "path": "/docs/module-4/chapter-3-content",
+              "sidebar": "module4Sidebar"
+            },
+            {
+              "id": "module-4/index",
+              "path": "/docs/module-4/",
+              "sidebar": "module4Sidebar"
+            },
+            {
+              "id": "module-4/style-guide",
+              "path": "/docs/module-4/style-guide",
+              "sidebar": "module4Sidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/chapter1-ros2-fundamentals",
+              "path": "/docs/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/chapter1-ros2-fundamentals-test",
+              "path": "/docs/physical-ai-humanoid-robotics/chapter1-ros2-fundamentals-test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/chapter2-ros2-python-communication",
+              "path": "/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/chapter2-ros2-python-communication-test",
+              "path": "/docs/physical-ai-humanoid-robotics/chapter2-ros2-python-communication-test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure",
+              "path": "/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test",
+              "path": "/docs/physical-ai-humanoid-robotics/chapter3-urdf-humanoid-structure-test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/index",
+              "path": "/docs/physical-ai-humanoid-robotics/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/module1-intro",
+              "path": "/docs/physical-ai-humanoid-robotics/module1-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-humanoid-robotics/quickstart",
+              "path": "/docs/physical-ai-humanoid-robotics/quickstart",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/physical-ai-humanoid-robotics/",
+                "label": "physical-ai-humanoid-robotics/index"
+              }
+            },
+            "module2Sidebar": {
+              "link": {
+                "path": "/docs/module-2",
+                "label": "module-2/index"
+              }
+            },
+            "module3Sidebar": {
+              "link": {
+                "path": "/docs/module-3",
+                "label": "module-3/index"
+              }
+            },
+            "module4Sidebar": {
+              "link": {
+                "path": "/docs/module-4/",
+                "label": "module-4/index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

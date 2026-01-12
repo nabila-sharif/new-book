@@ -1,0 +1,18 @@
+{
+  "id": "index",
+  "title": "Welcome to Physical AI & Humanoid Robotics",
+  "description": "This educational book covers the fundamentals of creating intelligent robotic systems that bridge the gap between artificial intelligence and physical interaction.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nabila-sharif/AI---Humanoid-Robotics-Book/tree/main/frontend_book/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}
