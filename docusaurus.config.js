@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url:'https://ai-book-ashen-chi.vercel.app',
+  url: 'https://new-book-delta.vercel.app',
 
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages deployment, it is often '/<projectName>/'
